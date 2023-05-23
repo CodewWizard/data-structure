@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b8b06ee-6787-4877-adfc-d96a20831ba2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CountTheCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RECURSION/SORTING/QuickSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/IntersectionOf2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/IntersectionOf2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/ItineraryTickets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/ItineraryTickets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/Job.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/Job.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/JobSequencingProb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/JobSequencingProb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/LargestConsecutiveSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/LargestConsecutiveSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/LargestSubarrayWZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/LargestSubarrayWZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/LargestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/LargestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/MajorityElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/SubarraySumEqualsK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/SubarraySumEqualsK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/SubarrayWXOR.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/SubarrayWXOR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/Sum4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/Sum4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HASHING/UnionOf2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HASHING/UnionOf2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RECURSION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RECURSION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RECURSION/out/production/RECURSION/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RECURSION/out/production/RECURSION/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RECURSION/out/production/RECURSION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RECURSION/out/production/RECURSION/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JXRl5pKTCC83iJkdIf24gbEqS6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.CountTheCharacters">
+    <configuration name="CountTheCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountTheCharacters" />
+      <module name="HASHING" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntersectionOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntersectionOf2" />
+      <module name="HASHING" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestSubstring" />
+      <module name="HASHING" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MajorityElement" />
+      <module name="HASHING" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnionOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnionOf2" />
+      <module name="HASHING" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountTheCharacters" />
+        <item itemvalue="Application.IntersectionOf2" />
+        <item itemvalue="Application.UnionOf2" />
+        <item itemvalue="Application.MajorityElement" />
+        <item itemvalue="Application.LargestSubstring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b8b06ee-6787-4877-adfc-d96a20831ba2" name="Changes" comment="" />
+      <created>1672222595864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672222595864</updated>
+      <workItem from="1673800916698" duration="566000" />
+      <workItem from="1673851407779" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LargestConsecutiveSequence.java</url>
+          <line>8</line>
+          <properties class="LargestConsecutiveSequence" method="consecutive">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/TwoSum.java</url>
+          <line>25</line>
+          <properties class="TwoSum" method="pattern">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Sum4.java</url>
+          <line>14</line>
+          <properties class="Sum4" method="sum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LargestSubarrayWZero.java</url>
+          <line>7</line>
+          <properties class="LargestSubarrayWZero" method="subarray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LargestSubstring.java</url>
+          <line>8</line>
+          <properties class="LargestSubstring" method="largestSubstringWithoutRepeat">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/IntersectionOf2.java</url>
+          <line>10</line>
+          <properties class="IntersectionOf2" method="intersection">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a16f0a84-d228-418a-b021-3774dc14fa4f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Backtracking/MazeRevise.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2KDrccY3P1IIV49Wb0raqS4C4I6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/DSA PREPARATION/DSA/RECURSION/OTHERS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\DSA PREPARATION\DSA\RECURSION\OTHERS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SubSequence">
+    <configuration name="NKnights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.NKnights" />
+      <module name="RECURSION" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NQueenLeetcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.NQueenLeetcode" />
+      <module name="RECURSION" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubSequence" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SubSequence" />
+      <module name="RECURSION" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Backtracking.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.Sudoku" />
+      <module name="RECURSION" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SudokuSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.SudokuSolver" />
+      <module name="RECURSION" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SubSequence" />
+      <item itemvalue="Application.NKnights" />
+      <item itemvalue="Application.NQueenLeetcode" />
+      <item itemvalue="Application.Sudoku" />
+      <item itemvalue="Application.SudokuSolver" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SudokuSolver" />
+        <item itemvalue="Application.Sudoku" />
+        <item itemvalue="Application.NKnights" />
+        <item itemvalue="Application.NQueenLeetcode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a16f0a84-d228-418a-b021-3774dc14fa4f" name="Changes" comment="" />
+      <created>1673520074935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673520074935</updated>
+      <workItem from="1673520076386" duration="122000" />
+      <workItem from="1673520232482" duration="626000" />
+      <workItem from="1673520886854" duration="562000" />
+      <workItem from="1673525550339" duration="1430000" />
+      <workItem from="1673527037316" duration="374000" />
+      <workItem from="1673527436886" duration="229000" />
+      <workItem from="1673527840997" duration="543000" />
+      <workItem from="1673528419165" duration="286000" />
+      <workItem from="1673528749166" duration="2784000" />
+      <workItem from="1673606112453" duration="7305000" />
+      <workItem from="1673626915582" duration="2000" />
+      <workItem from="1673678821398" duration="4760000" />
+      <workItem from="1673686753185" duration="3355000" />
+      <workItem from="1673693474541" duration="3474000" />
+      <workItem from="1673705792442" duration="4850000" />
+      <workItem from="1673750053475" duration="3000" />
+      <workItem from="1673773363673" duration="1000" />
+      <workItem from="1673847267292" duration="2156000" />
+      <workItem from="1673851380638" duration="1000" />
+      <workItem from="1673851404384" duration="1950000" />
+      <workItem from="1673853950788" duration="1782000" />
+      <workItem from="1673862769693" duration="1176000" />
+      <workItem from="1673864922316" duration="1325000" />
+      <workItem from="1673870136399" duration="460000" />
+      <workItem from="1673875528157" duration="2202000" />
+      <workItem from="1673882872246" duration="666000" />
+      <workItem from="1673952104970" duration="7939000" />
+      <workItem from="1674020508364" duration="4246000" />
+      <workItem from="1674036639254" duration="1555000" />
+      <workItem from="1674048429837" duration="2104000" />
+      <workItem from="1674056215285" duration="2579000" />
+      <workItem from="1674058900796" duration="2369000" />
+      <workItem from="1674109172579" duration="6842000" />
+      <workItem from="1674194530016" duration="587000" />
+      <workItem from="1674195156494" duration="3193000" />
+      <workItem from="1674199178458" duration="629000" />
+      <workItem from="1674200892692" duration="4026000" />
+      <workItem from="1674213997639" duration="11547000" />
+      <workItem from="1674658195910" duration="102000" />
+      <workItem from="1674658317652" duration="95000" />
+      <workItem from="1674658445838" duration="57000" />
+      <workItem from="1674660455733" duration="206000" />
+      <workItem from="1674660717210" duration="201000" />
+      <workItem from="1674710042836" duration="298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ans" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
