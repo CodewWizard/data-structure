@@ -20,8 +20,7 @@ public class LinkedL {
 
         while(t1.next != null && t1 !=null){
             if(t1.next.value == val){
-                Node temp = t1.next;
-                t1.next = temp.next;
+                t1.next = t1.next.next;
             }
             else{
                 t1 = t1.next;
