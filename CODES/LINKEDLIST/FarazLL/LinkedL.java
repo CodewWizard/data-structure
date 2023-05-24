@@ -9,6 +9,28 @@ public class LinkedL {
         this.size = 0;
     }
 
+    // remove Linked list elements
+    public Node removeElements(Node head, int val) {
+        Node dummy = new Node();
+        dummy.value = -1;
+        dummy.next = head;
+        Node t1 = dummy;
+
+        if(head == null) return null;
+
+        while(t1.next != null && t1 !=null){
+            if(t1.next.value == val){
+                Node temp = t1.next;
+                t1.next = temp.next;
+            }
+            else{
+                t1 = t1.next;
+            }
+        }
+
+        return dummy.next;
+    }
+
     // convert binary no in linked list to integer
     public int binaryToInt(){
         Node tmp = head;
